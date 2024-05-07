@@ -11,8 +11,8 @@ In diesem Project habe ich die Challenge "Base Apparel" umgesetzt.
 - Responsive Design mit Media Queries
 
 ## Vorgehensweise 
-1. Zuerst habe ich...
-2. ...
+1. Zuerst habe ich mobile Version erstellt.
+2. Danach habe ich eine Tab Version mit der Media Querry gemacht.
 
 **Autor**
 Anna Gridasova 
